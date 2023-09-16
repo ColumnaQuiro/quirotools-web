@@ -1,0 +1,30 @@
+@use 'fonts';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400..700&display=swap');
+
+html {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  --v-theme-overlay-multiplier: 1.2
+}
+
+body {
+  color: #474747;
+  @apply text-base;
+}
+
+ul {
+  li {
+    @apply ml-4;
+  }
+}
+
+p {
+  @apply text-base;
+}
