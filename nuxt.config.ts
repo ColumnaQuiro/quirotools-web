@@ -11,10 +11,7 @@ export default defineNuxtConfig({
     },
   },
   nitro: {
-    preset: 'netlify-static',
-    prerender: {
-      ignore: ['/https://dashboard.chiro-tools.com/create-account']
-    }
+    preset: 'netlify-static'
   },
   css: [
     // 'vuetify/lib/styles/main.sass',

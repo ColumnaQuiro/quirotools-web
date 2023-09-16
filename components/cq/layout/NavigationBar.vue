@@ -28,9 +28,10 @@ function toggleBurgerMenu() {
             :key="rt(link.text)"
             :text="rt(link.text)"
             :to="link.to ? rt(link.to) : undefined"
+            :href="link.href ? rt(link.href) : undefined"
             :sub-menu="link.subMenu"
           />
-          <cq-components-button :to="t('signup.to')" variant="flat" color="tertiary">
+          <cq-components-button :href="t('signup.href')" variant="flat" color="tertiary">
             {{ t('signup.text') }}
           </cq-components-button>
         </nav>
@@ -53,9 +54,10 @@ function toggleBurgerMenu() {
             :key="rt(link.text)"
             :text="rt(link.text)"
             :to="link.to ? rt(link.to) : undefined"
+            :href="link.href ? rt(link.href) : undefined"
             :sub-menu="link.subMenu"
           />
-          <cq-components-button :to="t('signup.to')" block variant="elevated">
+          <cq-components-button :href="t('signup.href')" block variant="elevated">
             {{ t('signup.text') }}
           </cq-components-button>
         </nav>
@@ -78,12 +80,12 @@ function toggleBurgerMenu() {
     "links": [
       {
         "text": "Sign in",
-        "to": "https://dashboard.chiro-tools.com"
+        "href": "https://dashboard.chiro-tools.com"
       }
     ],
     "signup": {
       "text": "Sign up",
-      "to": "https://dashboard.chiro-tools.com/create-account"
+      "href": "https://dashboard.chiro-tools.com/create-account"
     }
   }
 }

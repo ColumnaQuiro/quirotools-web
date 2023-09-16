@@ -5,6 +5,7 @@ import type { Link } from '~/types/Link'
 interface Props {
   text: string
   to: string | undefined
+  href: string | undefined
   subMenu?: Link[]
 }
 
@@ -19,6 +20,7 @@ const { rt } = useI18n()
   <div class="sub-menu-item relative">
     <cq-components-button
       :to="to"
+      :href="href"
       variant="text"
       color="blackBranded"
       block
