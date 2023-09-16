@@ -36,7 +36,7 @@ const links = tm('links')
 <i18n>
 {
   "es": {
-    "copyright": "© 2023 ColumnaQuiro",
+    "copyright": "© 2023 Chiro-tools",
     "links": [
       {
         "text": "Política de Privacidad",

@@ -12,6 +12,9 @@ export default defineNuxtConfig({
   },
   nitro: {
     preset: 'netlify-static',
+    prerender: {
+      ignore: ['/https://dashboard.chiro-tools.com/create-account']
+    }
   },
   css: [
     // 'vuetify/lib/styles/main.sass',
@@ -48,7 +51,7 @@ export default defineNuxtConfig({
     }
   },
   sitemap: {
-    hostname: 'https://columnaquiro.com',
+    hostname: 'https://chiro-tools.com',
     exclude: [
       'aviso-legal',
       'politica-de-cookies',
