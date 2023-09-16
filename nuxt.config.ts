@@ -61,12 +61,11 @@ export default defineNuxtConfig({
   },
   modules: [
     'vuetify-nuxt-module',
-    'nuxt-simple-sitemap',
-    '@nuxt/content',
+    'nuxt-simple-sitemap'
   ],
   runtimeConfig: {
     public: {
-      gtmId: 'G-W02B60F8Y5',
+      gtmId: 'GTM-5ZC9823M',
     },
   },
   vuetify: {
@@ -75,41 +74,11 @@ export default defineNuxtConfig({
       styles: { configFile: '/assets/scss/settings.scss' },
     },
   },
-  content: {
-    // https://content.nuxtjs.org/api/configuration
-    highlight: {
-      theme: {
-        // Default theme (same as single string)
-        default: 'material-theme-palenight',
-        // Theme used if `html.dark`
-        dark: 'github-dark',
-      },
-    },
-    markdown: {
-      toc: {
-        depth: 5,
-        searchDepth: 5,
-      },
-    },
-  },
   sourcemap: {
     server: false,
     client: false,
   },
   experimental: {
     inlineSSRStyles: false,
-  },
-  // hooks: {
-  //   'build:manifest': (manifest) => {
-  //     // find the app entry, css list
-  //     const css = manifest['node_modules/nuxt/dist/app/entry.js']?.css
-  //     if (css) {
-  //       // start from the end of the array and go to the beginning
-  //       for (let i = css.length - 1; i >= 0; i--) {
-  //         // if it starts with 'entry', remove it from the list
-  //         if (css[i].startsWith('entry')) { css.splice(i, 1) }
-  //       }
-  //     }
-  //   }
-  // }
+  }
 })
