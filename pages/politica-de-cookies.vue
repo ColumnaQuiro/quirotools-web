@@ -22,7 +22,7 @@
       Tipología, Finalidad y Funcionamiento de los Cookies
     </div>
 
-    Las cookies, en función de su permanencia, pueden dividirse en cookies de sesión o permanentes. Las primeras expiran cuando el usuario cierra el navegador. Las segundas expiran en función cuando se cumpla el objetivo para el que sirven (por ejemplo, para que el usuario se mantenga identificado en las páginas de www.columnaquiro.com) o bien cuando se borran manualmente.
+    Las cookies, en función de su permanencia, pueden dividirse en cookies de sesión o permanentes. Las primeras expiran cuando el usuario cierra el navegador. Las segundas expiran en función cuando se cumpla el objetivo para el que sirven (por ejemplo, para que el usuario se mantenga identificado en las páginas de www.chiro-tools.com) o bien cuando se borran manualmente.
     <br><br>
     Adicionalmente, en función de su objetivo, las cookies puedes clasificarse de la siguiente manera:
     <br><br>
@@ -41,14 +41,14 @@
     </ul>
     <br>
     <b>Cookies de Analíticas:</b>
-    Cada vez que un usuario visita una página, una herramienta de un proveedor externo (en nuestro caso Google Analytics) genera una cookie analítica en el ordenador del usuario. Esta cookie que sólo se genera en la visita, servirá en futuras visitas a las páginas de www.columnaquiro.com para identificar de forma anónima al visitante. Los objetivos principales que se persiguen son:
+    Cada vez que un usuario visita una página, una herramienta de un proveedor externo (en nuestro caso Google Analytics) genera una cookie analítica en el ordenador del usuario. Esta cookie que sólo se genera en la visita, servirá en futuras visitas a las páginas de www.chiro-tools.com para identificar de forma anónima al visitante. Los objetivos principales que se persiguen son:
     <ul class="list-disc">
       <li>Permitir la identificación anónima de los usuarios navegantes a través de la «cookie» (identifica navegadores y dispositivos, no personas) y por tanto la contabilización aproximada del número de visitantes y su tendencia en el tiempo.</li>
       <li>Identificar de forma anónima los contenidos más visitados y por lo tanto más atractivos para los usuarios.</li>
       <li>Saber si el usuario que está accediendo es nuevo o repite visita.</li>
     </ul>
     <br>
-    <b>Importante:</b> A menos que el usuario decida registrarse en la web de www.columnaquiro.com, la «cookie» nunca irá asociada a ningún dato de carácter personal que pueda identificarlo. Estas cookies sólo serán utilizadas con propósitos estadísticos que ayuden a la optimización de la experiencia de los usuarios en el sitio.
+    <b>Importante:</b> A menos que el usuario decida registrarse en la web de www.chiro-tools.com, la «cookie» nunca irá asociada a ningún dato de carácter personal que pueda identificarlo. Estas cookies sólo serán utilizadas con propósitos estadísticos que ayuden a la optimización de la experiencia de los usuarios en el sitio.
     <br><br>
     <div class="text-xl font-medium pb-3">
       Otras cookies de terceros
@@ -67,9 +67,9 @@
 
     Las cookies son ficheros enviados a un navegador por medio de un servidor web para registrar las actividades del usuario en una web determinada. La primera finalidad de las cookies es la de facilitar al usuario un acceso más rápido a las páginas seleccionadas.
     <br><br>
-    La web www.columnaquiro.com utiliza cookies para personalizar y facilitar al máximo la navegación del usuario. Las cookies se asocian únicamente a un usuario anónimo y su ordenador y no proporcionan referencias que permitan deducir datos personales del usuario. El usuario podrá configurar su navegador para que notifique y rechace la instalación de las cookies enviadas por la web de www.columnaquiro.com, sin que ello perjudique la posibilidad del usuario de acceder a los contenidos. Sin embargo, te hacemos notar que, en todo caso, la calidad de funcionamiento de la página web puede disminuir.
+    La web www.chiro-tools.com utiliza cookies para personalizar y facilitar al máximo la navegación del usuario. Las cookies se asocian únicamente a un usuario anónimo y su ordenador y no proporcionan referencias que permitan deducir datos personales del usuario. El usuario podrá configurar su navegador para que notifique y rechace la instalación de las cookies enviadas por la web de www.chiro-tools.com, sin que ello perjudique la posibilidad del usuario de acceder a los contenidos. Sin embargo, te hacemos notar que, en todo caso, la calidad de funcionamiento de la página web puede disminuir.
     <br><br>
-    Asimismo, la web de www.columnaquiro.com podrá saber todas las páginas visitas por los usuarios, por lo que podrá facilitar u ofrecer información adecuada a los gustos y preferencias de cada usuario.
+    Asimismo, la web de www.chiro-tools.com podrá saber todas las páginas visitas por los usuarios, por lo que podrá facilitar u ofrecer información adecuada a los gustos y preferencias de cada usuario.
     <br><br>
     <div class="text-xl font-medium pb-3">
       Como desactivar las Cookies los principales navegadores
@@ -77,7 +77,7 @@
 
     Normalmente es posible dejar de aceptar las cookies del navegador, o dejar de aceptar las cookies de una página en particular. Todos los navegadores modernos permiten cambiar la configuración de cookies. Este ajuste normalmente se encuentra en las «Opciones» o «Preferencias» del menú de su navegador.
     <br><br>
-    La web de www.columnaquiro.com ofrecen orientación al usuario sobre los pasos para acceder al menú de configuración de las cookies y, si procede, de la navegación privada en cada uno de los navegadores principales:
+    La web de www.chiro-tools.com ofrecen orientación al usuario sobre los pasos para acceder al menú de configuración de las cookies y, si procede, de la navegación privada en cada uno de los navegadores principales:
     <ul class="list-disc">
       <br><br>
       <li>
@@ -111,7 +111,7 @@
       Actualización y cambios en la política de Cookies
     </div>
 
-    La web de www.columnaquiro.com puede modificar esta Política de Cookies en función de exigencias legislativas, reglamentarias, o con el fin de adaptar esta política a las instrucciones dictadas por la Agencia Española de Protección de Datos, por ello se aconseja a los usuarios que la visiten periódicamente.
+    La web de www.chiro-tools.com puede modificar esta Política de Cookies en función de exigencias legislativas, reglamentarias, o con el fin de adaptar esta política a las instrucciones dictadas por la Agencia Española de Protección de Datos, por ello se aconseja a los usuarios que la visiten periódicamente.
     <br><br>
     Cuando se produzcan cambios significativos en esta Política de Cookies, se comunicarán a los usuarios mediante la web.
     <br><br>

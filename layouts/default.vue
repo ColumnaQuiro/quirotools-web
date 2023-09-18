@@ -52,7 +52,7 @@ useSeoMeta({
           <slot />
         </v-main>
         <!--        </DelayHydration> -->
-        <cq-layout-footer />
+        <lazy-cq-layout-footer />
         <client-only>
           <vue-cookie-comply
             :preferences="preferences"

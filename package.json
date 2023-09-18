@@ -14,8 +14,7 @@
     "@gtm-support/vue-gtm": "2.1.0",
     "@vueuse/core": "10.4.1",
     "nuxt-cookie-control": "1.9.93",
-    "vue3-carousel": "0.3.1",
-    "vuetify": "3.3.16"
+    "vue3-carousel": "0.3.1"
   },
   "devDependencies": {
     "@antfu/eslint-config": "0.42.0",

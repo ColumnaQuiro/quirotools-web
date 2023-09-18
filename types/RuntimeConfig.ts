@@ -2,6 +2,6 @@ interface PublicRuntimeConfig {
   gtmId: string
 }
 
-export {
+export type {
   PublicRuntimeConfig
 }

@@ -19,7 +19,7 @@ function toggleBurgerMenu() {
     <div class="w-full">
       <div class="container flex flex-wrap items-center">
         <nuxt-link to="/">
-          <v-img :src="`${STATICS_CDN}chiro-tools/logo/text-color.webp`" :width="130" alt="ChiroTools" />
+          <img :src="`${STATICS_CDN}chiro-tools/logo/text-color.webp`" :width="130" alt="ChiroTools" />
         </nuxt-link>
         <div class="flex-grow" />
         <nav class="hidden md:flex h-fit">
