@@ -24,6 +24,11 @@ const { t } = useI18n({ useScope: 'local', inheritLocale: true })
         </div>
       </template>
     </cq-blocks-sections-paragraph-with-image>
+    <div class="text-center pt-10">
+      <cq-components-button href="https://dashboard.chiro-tools.com/create-account" variant="flat" size="large" color="secondary">
+        {{ t('createAccountButton') }}
+      </cq-components-button>
+    </div>
   </cq-layout-section>
 </template>
 
@@ -31,7 +36,8 @@ const { t } = useI18n({ useScope: 'local', inheritLocale: true })
 {
   "es": {
     "title": "Your advanced Chiropractic software",
-    "description": "Chiro-Tools is your comprehensive online resource for cutting-edge chiropractic software dedicated to posture analysis and blindspot mapping, offering chiropractors advanced tools and insights to optimize patient care"
+    "description": "Chiro-Tools is your comprehensive online resource for cutting-edge chiropractic software dedicated to posture analysis and blindspot mapping, offering chiropractors advanced tools and insights to optimize patient care",
+    "createAccountButton": "Create account"
   }
 }
 </i18n>

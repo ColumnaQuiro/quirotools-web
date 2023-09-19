@@ -21,7 +21,8 @@ const specifications: Specification[] = tm('specifications')
     </h2>
     <div class="flex flex-wrap items-end justify-center gap-5">
       <home-pricing-card
-        price="11.95"
+        price="4.95€"
+        old-price="11.95€"
         type="individual"
         :logo-path="`${STATICS_CDN}chiro-tools/website/pricing-card-individual.webp`"
         :button-text="t('pricingCards.individual.button.text')"

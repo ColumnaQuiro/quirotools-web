@@ -16,6 +16,10 @@ defineProps({
     type: String,
     required: true
   },
+  oldPrice: {
+    type: String,
+    required: false
+  },
   buttonText: {
     type: String,
     required: true
@@ -33,8 +37,19 @@ defineProps({
     <div class="text-sm text-grey pt-1 pb-4">
       {{ type }}
     </div>
-    <div class="text-3xl font-medium pb-8">
-      {{ price }}
+    <div class="flex justify-center items-center">
+      <div
+        class="font-medium pb-8" :class="{
+          'line-through decoration-red': !!oldPrice,
+          'text-3xl': !oldPrice,
+          'text-2xl': !!oldPrice
+        }"
+      >
+        {{ oldPrice || price }}
+      </div>
+      <div v-if="!!oldPrice" class="text-3xl font-medium pb-8 pl-3">
+        {{ price }}
+      </div>
     </div>
     <slot name="specifications" />
     <cq-components-button :href="buttonTo" variant="flat" color="tertiary" class="mt-6">

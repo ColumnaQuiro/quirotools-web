@@ -15,7 +15,8 @@ module.exports = {
     'vue/no-v-html': 'off',
     'vue/multi-word-component-names': 'off',
     '@intlify/vue-i18n/no-html-messages': 'off',
-    '@typescript-eslint/comma-dangle': 'off'
+    '@typescript-eslint/comma-dangle': 'off',
+    'vue/comma-dangle': 'off'
   },
   plugins: [],
 }

@@ -29,6 +29,7 @@ module.exports = {
       'white': '#FFFFFF',
       'black': '#000000',
       'grey': '#ababab',
+      'red': '#DD474D',
       'light-grey': '#EDEDED',
       'brand': {
         primary: '#8D5B4C',
